@@ -1,0 +1,34 @@
+﻿'-LFP-Proyecto1.vshost.exe' (CLR v4.0.30319: -LFP-Proyecto1.vshost.exe): 'C:\Windows\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'-LFP-Proyecto1.vshost.exe' (CLR v4.0.30319: -LFP-Proyecto1.vshost.exe): 'C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.HostingProcess.Utilities\14.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.HostingProcess.Utilities.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'-LFP-Proyecto1.vshost.exe' (CLR v4.0.30319: -LFP-Proyecto1.vshost.exe): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'-LFP-Proyecto1.vshost.exe' (CLR v4.0.30319: -LFP-Proyecto1.vshost.exe): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'-LFP-Proyecto1.vshost.exe' (CLR v4.0.30319: -LFP-Proyecto1.vshost.exe): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'-LFP-Proyecto1.vshost.exe' (CLR v4.0.30319: -LFP-Proyecto1.vshost.exe): 'C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.HostingProcess.Utilities.Sync\14.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.HostingProcess.Utilities.Sync.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'-LFP-Proyecto1.vshost.exe' (CLR v4.0.30319: -LFP-Proyecto1.vshost.exe): 'C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.Debugger.Runtime\14.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.Debugger.Runtime.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'-LFP-Proyecto1.vshost.exe' (CLR v4.0.30319: -LFP-Proyecto1.vshost.exe): 'C:\Users\Josue\Desktop\-LFP-Proyecto1\-LFP-Proyecto1\-LFP-Proyecto1\bin\Debug\-LFP-Proyecto1.vshost.exe' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'-LFP-Proyecto1.vshost.exe' (CLR v4.0.30319: -LFP-Proyecto1.vshost.exe): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'-LFP-Proyecto1.vshost.exe' (CLR v4.0.30319: -LFP-Proyecto1.vshost.exe): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml.Linq\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.Linq.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'-LFP-Proyecto1.vshost.exe' (CLR v4.0.30319: -LFP-Proyecto1.vshost.exe): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Data.DataSetExtensions\v4.0_4.0.0.0__b77a5c561934e089\System.Data.DataSetExtensions.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'-LFP-Proyecto1.vshost.exe' (CLR v4.0.30319: -LFP-Proyecto1.vshost.exe): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.CSharp\v4.0_4.0.0.0__b03f5f7f11d50a3a\Microsoft.CSharp.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'-LFP-Proyecto1.vshost.exe' (CLR v4.0.30319: -LFP-Proyecto1.vshost.exe): 'C:\Windows\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'-LFP-Proyecto1.vshost.exe' (CLR v4.0.30319: -LFP-Proyecto1.vshost.exe): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Deployment\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Deployment.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'-LFP-Proyecto1.vshost.exe' (CLR v4.0.30319: -LFP-Proyecto1.vshost.exe): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Net.Http\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Net.Http.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'-LFP-Proyecto1.vshost.exe' (CLR v4.0.30319: -LFP-Proyecto1.vshost.exe): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+El subproceso 0xbb8 terminó con código 0 (0x0).
+El subproceso 0x16ac terminó con código 0 (0x0).
+El subproceso 0xa00 terminó con código 0 (0x0).
+El subproceso 0x16d4 terminó con código 0 (0x0).
+'-LFP-Proyecto1.vshost.exe' (CLR v4.0.30319: -LFP-Proyecto1.vshost.exe): 'C:\Users\Josue\Desktop\-LFP-Proyecto1\-LFP-Proyecto1\-LFP-Proyecto1\bin\Debug\-LFP-Proyecto1.exe' cargado. Símbolos cargados.
+borra 
+borra 
+borra 
+borra 
+borra 
+PRESIONASTE EL BOTON
+PRESIONASTE EL BOTON
+borra 
+borra 
+'-LFP-Proyecto1.vshost.exe' (CLR v4.0.30319: -LFP-Proyecto1.vshost.exe): 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\mscorlib.resources\v4.0_4.0.0.0_es_b77a5c561934e089\mscorlib.resources.dll' cargado. El módulo se compiló sin símbolos.
+El subproceso 0xd1c terminó con código 0 (0x0).
+El subproceso 0x11e0 terminó con código 0 (0x0).
+El programa '[820] -LFP-Proyecto1.vshost.exe' terminó con código 0 (0x0).

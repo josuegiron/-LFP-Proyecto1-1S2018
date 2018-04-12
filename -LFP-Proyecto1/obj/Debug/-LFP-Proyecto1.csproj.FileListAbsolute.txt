@@ -1,0 +1,9 @@
+C:\Users\Josue\Desktop\-LFP-Proyecto1\-LFP-Proyecto1\-LFP-Proyecto1\bin\Debug\-LFP-Proyecto1.exe.config
+C:\Users\Josue\Desktop\-LFP-Proyecto1\-LFP-Proyecto1\-LFP-Proyecto1\bin\Debug\-LFP-Proyecto1.exe
+C:\Users\Josue\Desktop\-LFP-Proyecto1\-LFP-Proyecto1\-LFP-Proyecto1\bin\Debug\-LFP-Proyecto1.pdb
+C:\Users\Josue\Desktop\-LFP-Proyecto1\-LFP-Proyecto1\-LFP-Proyecto1\obj\Debug\-LFP-Proyecto1.csprojResolveAssemblyReference.cache
+C:\Users\Josue\Desktop\-LFP-Proyecto1\-LFP-Proyecto1\-LFP-Proyecto1\obj\Debug\_LFP_Proyecto1.Form1.resources
+C:\Users\Josue\Desktop\-LFP-Proyecto1\-LFP-Proyecto1\-LFP-Proyecto1\obj\Debug\_LFP_Proyecto1.Properties.Resources.resources
+C:\Users\Josue\Desktop\-LFP-Proyecto1\-LFP-Proyecto1\-LFP-Proyecto1\obj\Debug\-LFP-Proyecto1.csproj.GenerateResource.Cache
+C:\Users\Josue\Desktop\-LFP-Proyecto1\-LFP-Proyecto1\-LFP-Proyecto1\obj\Debug\-LFP-Proyecto1.exe
+C:\Users\Josue\Desktop\-LFP-Proyecto1\-LFP-Proyecto1\-LFP-Proyecto1\obj\Debug\-LFP-Proyecto1.pdb
